@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-windows\",\"platform\":\"win32-x64\",\"version\":\"1.0.1\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.1/Garmo-Setup.exe\",\"size\":112953999,\"sha256\":\"ddddfe551ee0c1ba4a272c346c998ffaae862df9faf0c5647039c94d19a4a347\",\"notes\":\"Garmo 1.0.1: preview penuh ikut nisbah mockup, nama hasil ikut fail AI, simpan sebelah fail AI, edit terus dalam Photoshop, titik tengah & lekat ke tengah, logo ikut corak, undo/redo, preview lebih stabil.\",\"publishedAt\":\"2026-11-22T18:21:21.603Z\"}",
-  "signature": "jZJQCRlY+ZrEI86MdtGlRMGuFZUTQvZ+N/8fiGccHtsGLAYXzDONvH8p5N41Mq+/Z0SKT9QMWOTRtRbfYGSdBg=="
+  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-windows\",\"platform\":\"win32-x64\",\"version\":\"1.0.2\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.2/Garmo-Setup.exe\",\"size\":112949424,\"sha256\":\"b43ccf7908773ca818933aba42043c3da5a6bb4038350205eb995fccfc368aae\",\"notes\":\"Garmo 1.0.2: installer tidak lagi naik dua kali, preview Studio muat penuh, pilih mockup sendiri selepas export, editor kedudukan lebih kemas, garis sorot bahagian, grid ikut design.\",\"publishedAt\":\"2026-11-22T18:47:41.196Z\"}",
+  "signature": "iASyUuN+Cctb7n3BLiuN55zcUYOHEl9gAsLP30goU9yBaFqg/4eZNRBCdRG+XaTtz4ps0SZtZBcngSDebroJBA=="
 }
