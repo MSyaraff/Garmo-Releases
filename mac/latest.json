@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-mac\",\"platform\":\"darwin-arm64\",\"version\":\"1.0.1\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.1/Garmo-Mac.zip\",\"size\":120878664,\"sha256\":\"dd2de5f5a3cae86e5ec992b8d71f509df61d5f4c01439288ff634ee6631b5661\",\"notes\":\"Garmo 1.0.1: preview penuh ikut nisbah mockup, nama hasil ikut fail AI, simpan sebelah fail AI, edit terus dalam Photoshop, titik tengah & lekat ke tengah, logo ikut corak, undo/redo, preview lebih stabil.\",\"publishedAt\":\"2026-11-22T18:21:21.547Z\"}",
-  "signature": "SAZP+fqTyoDeI3jLU1b5r0Rc1MlZhwDPVlm3AsmeUuL2vvj31Oa3DAi+3bSUJ07urWu5A9ln3zNueCV7l9CfCQ=="
+  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-mac\",\"platform\":\"darwin-arm64\",\"version\":\"1.0.2\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.2/Garmo-Mac.zip\",\"size\":120880030,\"sha256\":\"60b3d083eb82ef05dcfb791eaca35e659c0d30fcc01b857c4f68fc9f56d738cb\",\"notes\":\"Garmo 1.0.2: installer tidak lagi naik dua kali, preview Studio muat penuh, pilih mockup sendiri selepas export, editor kedudukan lebih kemas, garis sorot bahagian, grid ikut design.\",\"publishedAt\":\"2026-11-22T18:47:41.135Z\"}",
+  "signature": "E2bCx7FvSf39NblG9a3oOc3rO1JBcX06xCTG0cObZhMNGKZMz0ewSbehXW8liUgLrWgsJDeq2ab/FnPrd0MjDA=="
 }
