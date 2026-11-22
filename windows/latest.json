@@ -1,0 +1,4 @@
+{
+  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-windows\",\"platform\":\"win32-x64\",\"version\":\"1.0.0\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.0/Garmo-Setup.exe\",\"size\":113049969,\"sha256\":\"5a55c037889192e7e6439ffc23470dd195095e351ebc65347f539f4305876190\",\"notes\":\"Garmo 1.0.0 oleh Solo Creative — keluaran pertama. Preview pantas dalam app, editor kedudukan, panel Illustrator baharu.\",\"publishedAt\":\"2026-11-22T17:19:10.867Z\"}",
+  "signature": "3h4j8wP5jxHKKzP0OYy/PKCcxfvTs/MsIrnnUVX/L9gA0bAqPIQKxCaWPy4udTUnfyxa2esOw8dbVtq+zWXSBg=="
+}
