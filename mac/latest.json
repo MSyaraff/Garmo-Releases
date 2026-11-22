@@ -1,0 +1,4 @@
+{
+  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-mac\",\"platform\":\"darwin-arm64\",\"version\":\"1.0.0\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.0/Garmo-Mac.zip\",\"size\":120874906,\"sha256\":\"11392d5c25cf3fbf2280a4768fdf3d8d5495a9f646906f3096e825cee43027e5\",\"notes\":\"Garmo 1.0.0 oleh Solo Creative — keluaran pertama. Preview pantas dalam app, editor kedudukan, panel Illustrator baharu.\",\"publishedAt\":\"2026-11-22T17:19:10.780Z\"}",
+  "signature": "klQ2uiSOvIiZw/kMIG8mIBGuNr8zDZy9YXG2UnSfrlNsl8Fh39nJahWeC/3K5e5sMxH9ER9zSIbpM/gGNOZNAg=="
+}
