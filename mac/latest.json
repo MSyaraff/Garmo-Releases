@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-mac\",\"platform\":\"darwin-arm64\",\"version\":\"1.0.2\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.2/Garmo-Mac.zip\",\"size\":120880030,\"sha256\":\"60b3d083eb82ef05dcfb791eaca35e659c0d30fcc01b857c4f68fc9f56d738cb\",\"notes\":\"Garmo 1.0.2: installer tidak lagi naik dua kali, preview Studio muat penuh, pilih mockup sendiri selepas export, editor kedudukan lebih kemas, garis sorot bahagian, grid ikut design.\",\"publishedAt\":\"2026-11-22T18:47:41.135Z\"}",
-  "signature": "E2bCx7FvSf39NblG9a3oOc3rO1JBcX06xCTG0cObZhMNGKZMz0ewSbehXW8liUgLrWgsJDeq2ab/FnPrd0MjDA=="
+  "payload": "{\"format\":\"garmo-release-v1\",\"app\":\"garmo-mac\",\"platform\":\"darwin-arm64\",\"version\":\"1.0.3\",\"url\":\"https://github.com/MSyaraff/Garmo-Releases/releases/download/v1.0.3/Garmo-Mac.zip\",\"size\":120881374,\"sha256\":\"7955b49675c4014295db6c3d5aeff8dffae95f018660d860c7e4ba6d9e9db368\",\"notes\":\"Garmo 1.0.3: preview kenal pasti setiap Smart Object dengan tepat (rakam semula template di Koleksi), editor kedudukan zoom-out, butang kaki editor kemas.\",\"publishedAt\":\"2026-11-22T19:06:20.760Z\"}",
+  "signature": "aKoeSLsRgjO1lOjEmSZY98woFfaLYtldV304U8FkIWkx/yb/8YDI0LHlMKJYdxDHYydJuGzv1EUj0cfwCGTfCw=="
 }
